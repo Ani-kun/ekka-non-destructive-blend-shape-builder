@@ -1,0 +1,14 @@
+{
+  "name": "ekka.non-destructive-blend-shape-builder",
+  "displayName": "EKKANonDestructiveBlendShapeBuilder",
+  "version": "0.0.1",
+  "unity": "2019.4",
+  "description": "Build new blend shapes from a combination of existing blend shapes with Non-Destructive Modular Framework",
+  "author": {
+    "name": "Ani-kun",
+    "email": "anikunvrc@gmail.com"
+  },
+  "vpmDependencies": {
+    "nadena.dev.ndmf": "^1.0.0"
+  }
+}

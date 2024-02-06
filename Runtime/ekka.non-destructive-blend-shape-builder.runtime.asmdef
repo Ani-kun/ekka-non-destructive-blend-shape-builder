@@ -1,0 +1,18 @@
+{
+    "name": "ekka.non-destructive-blend-shape-builder.runtime",
+    "references": [
+        "nadena.dev.ndmf",
+        "nadena.dev.ndmf.runtime",
+        "nadena.dev.modular-avatar.core",
+        "nadena.dev.modular-avatar.core.editor"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
