@@ -5,7 +5,7 @@
         "nadena.dev.ndmf.runtime",
         "nadena.dev.modular-avatar.core",
         "nadena.dev.modular-avatar.core.editor",
-        "ekka.non-destructive-blend-shape-builder.runtime"
+        "ekka.non-destructive-blend-shape-builder"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

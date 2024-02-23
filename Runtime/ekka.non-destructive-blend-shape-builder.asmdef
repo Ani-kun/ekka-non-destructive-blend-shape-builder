@@ -1,5 +1,5 @@
 {
-    "name": "ekka.non-destructive-blend-shape-builder.runtime",
+    "name": "ekka.non-destructive-blend-shape-builder",
     "references": [
         "nadena.dev.ndmf",
         "nadena.dev.ndmf.runtime",
